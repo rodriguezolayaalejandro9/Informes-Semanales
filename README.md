@@ -33,3 +33,4 @@ Además, requiere los módulos personalizados:
 ## 📝 Notas
 - Este código ahorró el trabajo **semanal** de **14 profesores**, cada uno de los cuales tardaba aproximadamente **1 hora** en realizar este proceso manualmente.
 - Está diseñado para uso interno y adaptado a la estructura de datos del Colegio Gimnasio Kaiporé.
+- En este repositorio se incluye un **informe real en PDF** generado por el script, al cual únicamente se le ha retirado el nombre del estudiante, para mostrar cómo se crean los informes personalizados a partir de un único archivo de notas.
